@@ -1,0 +1,5 @@
+Distance band,Inside-catchment crashes,Non-motorist crashes,Any school-age person,School-age non-motorist,School-age occupant,Nearest-node contexts,Non-motorist crash share (%),School-age any person share (%),School-age non-motorist share (%),School-age occupant share (%)
+0-250 ft,93507,5461,8795,810,8021,42662,5.8402,9.4057,0.8662,8.578
+250-500 ft,7658,268,524,47,482,5111,3.4996,6.8425,0.6137,6.2941
+500-1000 ft,3810,60,246,13,235,1820,1.5748,6.4567,0.3412,6.168
+>1000 ft,3292,16,202,1,201,639,0.486,6.1361,0.0304,6.1057

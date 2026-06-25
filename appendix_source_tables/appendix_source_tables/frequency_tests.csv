@@ -1,0 +1,4 @@
+Context,Comparison unit,School-related value,Reference value,Metric,Effect ratio,Test,p_value,p-value,Conclusion,Source object
+Spatial catchment,Nearest-intersection/context group,0.1284,0.0595,non-motorist crashes,2.1595,Mann-Whitney U,0.0,< 0.001,Higher in school-related context,q1_primary_tests: Q1A frequency
+Official school-calendar,School-system-date,1.5996,1.1256,inside-catchment non-motorist crashes,1.4211,Mann-Whitney U,0.0,< 0.001,Higher on official school-open dates,q3_primary_tests: Q3A frequency
+Opening/dismissal window,15-minute interval opportunity,39.0776,6.262,"school-age non-motorist events per 100,000 15-minute intervals",6.2404,Chi-square interval-rate test,0.0,< 0.001,Higher during opening/dismissal windows,q4_primary_tests: Q4A 15-minute interval frequ...

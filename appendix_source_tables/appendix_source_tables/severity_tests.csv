@@ -1,0 +1,4 @@
+Context,School-related mean severity,Reference mean severity,School-related serious/fatal (%),Reference serious/fatal (%),Mean difference,Test,p_value,p-value,Significant?,Conclusion,Source object
+Spatial catchment,1.7278,1.7579,17.0447,18.9474,-0.0301,Mann-Whitney U,0.3498,0.3498,No,Not higher in school-related context,q1_primary_tests + nm_analysis
+Official school-calendar,1.7031,1.7508,15.6977,18.3183,-0.0476,Mann-Whitney U,0.1191,0.1191,No,Not higher on official school-open dates,q3_primary_tests + q3_nm
+Opening/dismissal window,1.7595,1.6651,14.7679,9.7674,0.0944,Mann-Whitney U,0.1498,0.1498,No,"Descriptively higher, but not statistically si...",q4_primary_tests + q4_school_age_nm_persons

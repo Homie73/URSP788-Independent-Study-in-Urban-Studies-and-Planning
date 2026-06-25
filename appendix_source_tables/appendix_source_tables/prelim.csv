@@ -1,0 +1,8 @@
+Measure,Count,Percentage formatted,Denominator
+All inside-catchment crashes,108267,100.00%,All crashes inside at least one 1-mile study-county school catchment
+Any school-age person involved,9767,9.02%,All inside-catchment crashes
+Any school-age occupant involved,8939,8.26%,All inside-catchment crashes
+Any school-age non-motorist involved,871,0.80%,All inside-catchment crashes
+Inside-catchment non-motorist crashes,5805,100.00%,Inside-catchment crashes involving at least one non-motorist
+School-age non-motorist involved among inside-catchment non-motorist crashes,871,15.00%,Inside-catchment non-motorist crashes
+Any school-age person involved among inside-catchment non-motorist crashes,1001,17.24%,Inside-catchment non-motorist crashes

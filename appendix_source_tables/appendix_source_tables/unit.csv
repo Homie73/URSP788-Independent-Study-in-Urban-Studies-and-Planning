@@ -1,0 +1,5 @@
+Analysis block,Primary denominator/unit,Sensitivity layer,Main caution
+Q1 spatial catchment,Nearest-intersection/crash-context group for frequency; crash reports for share; non-motorist persons for severity,Nearest-intersection distance bands,Not a fully exposure-adjusted intersection risk model.
+Q2 descriptive school-age involvement,Inside-catchment crashes and inside-catchment non-motorist crashes,Nearest-intersection distance bands plus county/day/hour descriptions,"Descriptive composition, not causal risk."
+Q3 official school-open dates,"School-system-date, one day per county/school system",County and day-of-week descriptive summaries,Calendar coverage excludes dates outside supplied school-year calendars.
+Q4 opening/dismissal windows,15-minute interval opportunities during official school-open days,County and detailed window-category summaries,"Opening/dismissal comparison is time-window based, not a direct exposure-risk estimate."

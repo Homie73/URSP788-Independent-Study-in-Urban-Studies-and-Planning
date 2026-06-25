@@ -1,0 +1,8 @@
+Measure,Count,Percentage,Denominator,Source object,Percentage formatted
+All inside-catchment crashes,108267,100.0,All crashes inside at least one 1-mile study-c...,q2_crash,100.00%
+Any school-age person involved,9767,9.0212,All inside-catchment crashes,q2_crash.any_person_school_age,9.02%
+Any school-age occupant involved,8939,8.2564,All inside-catchment crashes,q2_crash.any_occ_school_age,8.26%
+Any school-age non-motorist involved,871,0.8045,All inside-catchment crashes,q2_crash.any_nm_school_age,0.80%
+Inside-catchment non-motorist crashes,5805,100.0,Inside-catchment crashes involving at least on...,q2_nm_crashes,100.00%
+School-age non-motorist involved among inside-catchment non-motorist crashes,871,15.0043,Inside-catchment non-motorist crashes,q2_nm_crashes.any_nm_school_age,15.00%
+Any school-age person involved among inside-catchment non-motorist crashes,1001,17.2438,Inside-catchment non-motorist crashes,q2_nm_crashes.any_person_school_age,17.24%

@@ -1,0 +1,4 @@
+Context,Denominator,School-related share (%),Reference share (%),Effect ratio,Test,p_value,p-value,Conclusion,Source object
+Spatial catchment,All reported crashes,5.3617,2.2359,2.3981,Chi-square test of independence,0.0,< 0.001,Higher in school-related context,q1_primary_tests: Q1B likelihood
+Official school-calendar,Inside-catchment crashes with official calenda...,6.1162,4.9405,1.238,Chi-square test of independence,0.0,< 0.001,Higher on official school-open dates,q3_primary_tests: Q3B likelihood
+Opening/dismissal window,School-age-involved crashes on official school...,14.4225,9.0629,1.5914,Chi-square test of independence,0.0,< 0.001,Higher during opening/dismissal windows,q4_primary_tests: Q4B likelihood
