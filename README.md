@@ -1,5 +1,5 @@
 # When the School Bell Rings:
-## Analysis of Non-Motorist Crash Patterns Around Schools in Six Maryland Jurisdictions During School Arrival and Dismissal Periods**
+## Analysis of Non-Motorist Crash Patterns Around Schools in Six Maryland Jurisdictions During School Arrival and Dismissal Periods
 ## **[Click Here To Access the Interactive Appendix](https://homie73.github.io/URSP788-Independent-Study-in-Urban-Studies-and-Planning/)**
 This repository hosts the interactive appendix for:
 
