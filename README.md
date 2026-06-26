@@ -4,9 +4,15 @@
 ## **[Click Here to Access the Interactive Appendix](https://homie73.github.io/URSP788-Independent-Study-in-Urban-Studies-and-Planning/)**
 This repository hosts the interactive appendix for:
 
-**When the School Bell Rings: Analysis of Non-Motorist Crash Patterns Around Schools in Six Maryland Jurisdictions During School Arrival and Dismissal Periods**
+***When the School Bell Rings:*** Analysis of Non-Motorist Crash Patterns Around Schools in Six Maryland Jurisdictions During School Arrival and Dismissal Periods
 
-Authors: Homayoon Aghili and Caleb Fan Affiliation: University of Maryland, College Park Course: **URSP788** Independent Study in Urban Studies and Planning Term: Spring **2026**
+**Authors:** Homayoon Aghili and Caleb Fan 
+
+**Affiliation:** University of Maryland, College Park 
+
+**Course:** URSP788 Independent Study in Urban Studies and Planning 
+
+**Term:** Spring 2026
 
 ## Description
 
